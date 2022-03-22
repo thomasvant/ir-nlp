@@ -1,0 +1,9 @@
+.python-version
+competition_test_bodies.csv
+competition_test_stances.csv
+train_bodies.csv
+train_stances.csv
+/cache_dir/
+/outputs/
+/runs/
+/.ipynb_checkpoints/
