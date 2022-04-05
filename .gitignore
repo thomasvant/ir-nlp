@@ -5,5 +5,4 @@ train_bodies.csv
 train_stances.csv
 /cache_dir/
 /outputs/
-/runs/
 /.ipynb_checkpoints/
